@@ -1,0 +1,53 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "LuxaDeck Standard Colors",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Setup LuxaDeck for Luxafor flag",
+      "UUID": "com.smat91.luxadeck.standardcolors.keyaction",
+      "PropertyInspectorPath": "PropertyInspector/LuxaDeckStandardColors.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "LuxaDeck Custom Colors",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Setup LuxaDeck for Luxafor flag",
+      "UUID": "com.smat91.luxadeck.customcolors.keyaction",
+      "PropertyInspectorPath": "PropertyInspector/LuxaDeckCustomColors.html"
+    }
+  ],
+  "Author": "smat91",
+  "Name": "LuxaDeck",
+  "Description": "Plugin to control Luxafor flag with your Stream Deck",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://github.com/smat91",
+  "Version": "1.0",
+  "CodePath": "com.smat91.luxadeck",
+  "Category": "LuxaDeck",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "6.4"
+  }
+}
