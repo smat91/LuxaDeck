@@ -23,7 +23,7 @@ To install LuxaDeck, follow these steps:
 
 1. **Checkout the latest version** of the LuxaDeck git repository.
 2. **Open a Command Prompt window** as Administrator. This is necessary for the installation script to run properly.
-3. **Navigate to the `Util` folder** within the extracted LuxaDeck files. You can do this by typing `cd path\to\LuxaDeck\Util` in the Command Prompt, replacing `path\to\LuxaDeck` with the actual path where you extracted LuxaDeck.
+3. **Navigate to the `Util` folder** within the LuxaDeck files. You can do this by typing `cd path\to\LuxaDeck\Util` in the Command Prompt, replacing `path\to\LuxaDeck` with the actual path where you extracted LuxaDeck.
 4. **Run the installation script** by typing `Install.bat <Debug/Release> <UUID>` and pressing Enter. Replace `<Debug/Release>` with `Debug` if you are installing for development purposes or `Release` for a production environment. Replace `<UUID>` with the UUID of the plugin, for example, `com.smat91.luxadeck`.
 
    Example command for a release installation:
